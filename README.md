@@ -1,5 +1,5 @@
 # GribouilleGame
-Développement d'une application jeu en Java dont la conception et la mise en oeuvre nous font utiliser de nombreux designs patterns comme le pattern MVC, Command et Singleton.
+Développement d'une application jeu en Java dont la conception et la mise en oeuvre nous font utiliser de nombreux designs patterns comme les patterns MVC, Command et Singleton.
 Le jeu se déroule comme suit:   
   - La partie se lance, des croix sont générées aléatoirement au sein d'un canvas.
   - L'utilisateur a à sa disposition des outils de dessin lui permettant d'ajouter des formes au canvas (rectangles, cercles ..).
