@@ -1,0 +1,12 @@
+gribouillegame
+gribouillegame.controllers
+gribouillegame.models
+gribouillegame.models.generateStrategy
+gribouillegame.models.geometricEntities
+gribouillegame.models.geometricEntities.Shapes
+gribouillegame.models.iaStrategy
+gribouillegame.utils
+gribouillegame.utils.command
+gribouillegame.utils.mvc
+gribouillegame.views
+gribouillegame.views.geometricEntitiesViews
